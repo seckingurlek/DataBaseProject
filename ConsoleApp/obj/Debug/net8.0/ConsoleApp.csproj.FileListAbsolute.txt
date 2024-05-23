@@ -1,0 +1,6 @@
+C:\Users\90534\OneDrive\Masaüstü\Db-main\Form2\ConsoleApp\obj\Debug\net8.0\Form2.Form1.resources
+C:\Users\90534\OneDrive\Masaüstü\Db-main\Form2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.GenerateResource.cache
+C:\Users\90534\OneDrive\Masaüstü\Db-main\Form2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90534\OneDrive\Masaüstü\Db-main\Form2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\90534\OneDrive\Masaüstü\Db-main\Form2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\90534\OneDrive\Masaüstü\Db-main\Form2\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
